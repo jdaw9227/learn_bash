@@ -1,0 +1,2 @@
+# Arrive here by using the command 'crontab -e'
+* * * * * /bin/sh /Users/abdulwmohammed/learn_bash/cronjob/test.sh >> /Users/abdulwmohammed/learn_bash/cronjob/test.log 2>&1
